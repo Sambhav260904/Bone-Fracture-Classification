@@ -13,4 +13,5 @@ This project classifies bone fractures from X-ray images using image processing 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+     git clone https://github.com/Sambhav260904/Bone-Fracture-Classification.git
+
